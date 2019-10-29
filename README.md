@@ -1,7 +1,7 @@
 SteamSubscList
 =====
 
-[![](https://img.youtube.com/vi/HD1qW6I77F8/0.jpg)](https://www.youtube.com/watch?v=HD1qW6I77F8)
+![SteamSubscList](https://raw.githubusercontent.com/micelle/SteamSubscList/master/images/webstore/440×280.png)
 
 SteamのサブスクライブをCSVで保存します。
 
@@ -13,6 +13,9 @@ Save Steam's subscription as CSV.
   https://steamcommunity.com/id/micelle/myworkshopfiles/?browsefilter=mysubscriptions&browsesort=mysubscriptions
   https://steamcommunity.com/profiles/76561198049655233/myworkshopfiles/?browsefilter=mysubscriptions&browsesort=mysubscriptions
 2. アクセスしたら「CSVダウンロード」のボタンを押すだけ！！
+
+### YouTube
+[![YouTube](https://img.youtube.com/vi/HD1qW6I77F8/0.jpg)](https://www.youtube.com/watch?v=HD1qW6I77F8)
 
 ## 注意点
 - ダウンロード中はブラウザに触れないで下さい。  
