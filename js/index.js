@@ -38,7 +38,8 @@ function saveSubscriptions() {
   const pagebtns = document.querySelectorAll('.pagebtn');
   const lastPagebtn = pagebtns[pagebtns.length - 1];
   const className = lastPagebtn.classList.contains('disabled');
-  if (!className) {
+  const idName = lastPagebtn.id;
+  if (!className && idName !== 'myworkshopfiles-dl') {
     lastPagebtn.click();
   } else {
     // https://macoblog.com/jquery-csv-download/
